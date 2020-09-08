@@ -1,0 +1,12 @@
+{
+  "source": "./gentype.opam",
+  "override": {
+    "dependencies": {
+      "@opam/reason": null,
+      "@esy-ocaml/reason": "3.6.2"
+    },
+    "devDependencies": {
+      "@opam/reason": null
+    }
+  }
+}

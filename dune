@@ -1,1 +1,2 @@
-(ignored_subdirs (node_modules))
+(dirs src users)
+(data_only_dirs examples)
